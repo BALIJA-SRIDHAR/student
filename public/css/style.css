@@ -1,0 +1,18 @@
+body{
+   background-image: url(/images/universityofmississippi-18_ret.jpg);
+   background-size: cover;
+}
+nav{
+    background-color: aquamarine;
+}
+.forms{
+    width: 30%;
+    margin-left: 60%;
+    background-image: url(/images/background-learner1.jpg) 0.3;
+    padding: 10px;
+    color: rgb(6, 46, 3);
+    text-align: justify;
+}
+.imgs{
+   display: flex;
+}
